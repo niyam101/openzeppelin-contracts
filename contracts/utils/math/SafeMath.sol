@@ -105,7 +105,7 @@ library SafeMath {
      */
     function sub(uint256 a, uint256 b) internal pure returns (uint256) {
         return a - b;
-    }
+    } //gay
 
     /**
      * @dev Returns the multiplication of two unsigned integers, reverting on
